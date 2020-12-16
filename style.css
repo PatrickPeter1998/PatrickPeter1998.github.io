@@ -1,0 +1,128 @@
+.parallax {
+  background: url("img/pc.jpg");
+
+  min-height: 500px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-center{
+	padding: 70px 0;
+	
+}
+
+.container{
+	padding-top: 40px;
+}
+
+.img1{
+	margin-top: 30px;
+}
+
+#intro{
+	margin-top: 100px;
+}
+
+.img2{
+	margin-top: 70px;
+}
+
+#TU{
+	margin-top: 100px;
+}
+
+.img3{
+	margin-top: 30px;
+}
+
+#LC{
+	margin-top: 100px;
+}
+
+.img2:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 1);
+}
+
+.img3:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 1);
+}
+
+#nav{
+	position: sticky;
+	width: 100%;
+	top: 0;
+	overflow: hidden;
+	z-index: 1;
+}
+
+#table{
+	margin-top: 50px;
+}
+
+#project {
+	padding-top: 10px;
+}
+
+.img4{
+	margin-bottom: 30px;
+}
+
+.img5:hover {
+	box-shadow: 0 0 2px 1px rgba(0, 140, 186, 1);
+  }
+
+  #fbd{
+	margin-top: 70px;
+}
+
+.fa {
+	padding: 10px;
+	font-size: 30px;
+	width: 30px;
+  }
+
+.img5{
+	margin-bottom: 30px;
+}
+
+
+.img6{
+	margin-bottom: 30px;
+}
+
+
+.img7{
+	margin-bottom: 30px;
+	margin-top: 50px;
+}
+
+.img6:hover {
+	box-shadow: 0 0 2px 1px rgba(0, 140, 186, 1);
+  }
+
+.img7:hover {
+	box-shadow: 0 0 2px 1px rgba(0, 140, 186, 1);
+  }
+
+#folens{
+	margin-top: 50px;
+}
+
+.img8{
+	margin-bottom: 30px;
+}
+
+.img9{
+	margin-bottom: 30px;
+}
+
+.img10{
+	margin-bottom: 30px;
+}
+
+.img11{
+	margin-bottom: 30px;
+}
